@@ -38,3 +38,7 @@ cacheSolve <- function(x, ...) {
     x$setinverse(m)
     m
 }
+
+$ git add .
+$ git commit -m "Assignment 2"
+$ git push master origin
