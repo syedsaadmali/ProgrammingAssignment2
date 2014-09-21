@@ -2,6 +2,9 @@
 ## calculate the inverse of an invertible matrix and cache the
 ## inverse for future use without the need to recalculate the inverse
 
+## I have based my code on the example code provided by Professor Peng
+## for Assignment 2
+
 ## makeCacheMatrix creates a list of functions to set the invertible
 ## matrix, output the invertible matrix, cache the inverse of the 
 ## matrix and output the inverse matrix
